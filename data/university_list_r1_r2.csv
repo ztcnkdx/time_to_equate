@@ -1,0 +1,268 @@
+UNITID,name
+100663,University of Alabama at Birmingham
+100751,The University of Alabama
+100858,Auburn University
+104151,Arizona State University Campus Immersion
+104179,University of Arizona
+106397,University of Arkansas
+110404,California Institute of Technology
+110635,University of California-Berkeley
+110644,University of California-Davis
+110653,University of California-Irvine
+110662,University of California-Los Angeles
+110671,University of California-Riverside
+110680,University of California-San Diego
+110705,University of California-Santa Barbara
+110714,University of California-Santa Cruz
+123961,University of Southern California
+126562,University of Colorado Denver/Anschutz Medical Campus
+126614,University of Colorado Boulder
+126818,Colorado State University-Fort Collins
+129020,University of Connecticut
+130794,Yale University
+130943,University of Delaware
+131469,George Washington University
+131496,Georgetown University
+132903,University of Central Florida
+133951,Florida International University
+134097,Florida State University
+134130,University of Florida
+135726,University of Miami
+137351,University of South Florida
+139658,Emory University
+139755,Georgia Institute of Technology-Main Campus
+139940,Georgia State University
+139959,University of Georgia
+141574,University of Hawaii at Manoa
+144050,University of Chicago
+145600,University of Illinois Chicago
+145637,University of Illinois Urbana-Champaign
+147767,Northwestern University
+151351,Indiana University-Bloomington
+152080,University of Notre Dame
+153603,Iowa State University
+153658,University of Iowa
+155317,University of Kansas
+155399,Kansas State University
+157085,University of Kentucky
+157289,University of Louisville
+159391,Louisiana State University and Agricultural & Mechanical College
+160755,Tulane University of Louisiana
+162928,Johns Hopkins University
+163286,University of Maryland-College Park
+164924,Boston College
+164988,Boston University
+165015,Brandeis University
+166027,Harvard University
+166629,University of Massachusetts-Amherst
+166683,Massachusetts Institute of Technology
+167358,Northeastern University
+168148,Tufts University
+170976,University of Michigan-Ann Arbor
+171100,Michigan State University
+172644,Wayne State University
+174066,University of Minnesota-Twin Cities
+176017,University of Mississippi
+176080,Mississippi State University
+176372,University of Southern Mississippi
+178396,University of Missouri-Columbia
+179867,Washington University in St Louis
+180461,Montana State University
+181464,University of Nebraska-Lincoln
+182281,University of Nevada-Las Vegas
+182290,University of Nevada-Reno
+182670,Dartmouth College
+183044,University of New Hampshire-Main Campus
+185828,New Jersey Institute of Technology
+186131,Princeton University
+186380,Rutgers University-New Brunswick
+187985,University of New Mexico-Main Campus
+190150,Columbia University in the City of New York
+190415,Cornell University
+190576,CUNY Graduate School and University Center
+193900,New York University
+194824,Rensselaer Polytechnic Institute
+195030,University of Rochester
+196060,SUNY at Albany
+196079,Binghamton University
+196088,University at Buffalo
+196097,Stony Brook University
+196413,Syracuse University
+198419,Duke University
+199120,University of North Carolina at Chapel Hill
+199193,North Carolina State University at Raleigh
+201645,Case Western Reserve University
+201885,University of Cincinnati-Main Campus
+204796,Ohio State University-Main Campus
+207388,Oklahoma State University-Main Campus
+207500,University of Oklahoma-Norman Campus
+209542,Oregon State University
+209551,University of Oregon
+211440,Carnegie Mellon University
+212054,Drexel University
+214777,Pennsylvania State University-Main Campus
+215062,University of Pennsylvania
+215293,University of Pittsburgh-Pittsburgh Campus
+216339,Temple University
+217156,Brown University
+217882,Clemson University
+218663,University of South Carolina-Columbia
+221759,The University of Tennessee-Knoxville
+221999,Vanderbilt University
+225511,University of Houston
+227216,University of North Texas
+227757,Rice University
+228723,Texas A & M University-College Station
+228769,The University of Texas at Arlington
+228778,The University of Texas at Austin
+228787,The University of Texas at Dallas
+228796,The University of Texas at El Paso
+229115,Texas Tech University
+230764,University of Utah
+232186,George Mason University
+233921,Virginia Polytechnic Institute and State University
+234030,Virginia Commonwealth University
+234076,University of Virginia-Main Campus
+236939,Washington State University
+236948,University of Washington-Seattle Campus
+238032,West Virginia University
+240444,University of Wisconsin-Madison
+240453,University of Wisconsin-Milwaukee
+243744,Stanford University
+243780,Purdue University-Main Campus
+495767,The Pennsylvania State University
+100706,University of Alabama in Huntsville
+102094,University of South Alabama
+102614,University of Alaska Fairbanks
+105330,Northern Arizona University
+106245,University of Arkansas at Little Rock
+106458,Arkansas State University
+109785,Azusa Pacific University
+111948,Chapman University
+112251,Claremont Graduate University
+117946,Loyola Marymount University
+122409,San Diego State University
+122436,University of San Diego
+126580,University of Colorado Colorado Springs
+126775,Colorado School of Mines
+127060,University of Denver
+130934,Delaware State University
+131159,American University
+131283,The Catholic University of America
+131450,Gallaudet University
+131520,Howard University
+133650,Florida Agricultural and Mechanical University
+133669,Florida Atlantic University
+133881,Florida Institute of Technology
+136215,Nova Southeastern University
+138947,Clark Atlanta University
+139931,Georgia Southern University
+140447,Mercer University
+142115,Boise State University
+142276,Idaho State University
+142285,University of Idaho
+144740,DePaul University
+145725,Illinois Institute of Technology
+145813,Illinois State University
+146719,Loyola University Chicago
+147703,Northern Illinois University
+149222,Southern Illinois University-Carbondale
+150136,Ball State University
+151111,Indiana University-Purdue University-Indianapolis
+156125,Wichita State University
+159647,Louisiana Tech University
+159939,University of New Orleans
+160658,University of Louisiana at Lafayette
+161253,University of Maine
+161457,University of New England
+163268,University of Maryland-Baltimore County
+163338,University of Maryland Eastern Shore
+163453,Morgan State University
+165334,Clark University
+166513,University of Massachusetts-Lowell
+166638,University of Massachusetts-Boston
+167987,University of Massachusetts-Dartmouth
+168421,Worcester Polytechnic Institute
+169248,Central Michigan University
+169798,Eastern Michigan University
+171128,Michigan Technological University
+171571,Oakland University
+172699,Western Michigan University
+175856,Jackson State University
+178402,University of Missouri-Kansas City
+178411,Missouri University of Science and Technology
+178420,University of Missouri-St Louis
+179159,Saint Louis University
+180489,The University of Montana
+181394,University of Nebraska at Omaha
+184782,Rowan University
+185590,Montclair State University
+186371,Rutgers University-Camden
+186399,Rutgers University-Newark
+186584,Seton Hall University
+186867,Stevens Institute of Technology
+188030,New Mexico State University-Main Campus
+190044,Clarkson University
+190567,CUNY City College
+191241,Fordham University
+193654,The New School
+195003,Rochester Institute of Technology
+195049,Rockefeller University
+196103,SUNY College of Environmental Science and Forestry
+196468,Teachers College at Columbia University
+197708,Yeshiva University
+198464,East Carolina University
+199102,North Carolina A & T State University
+199139,University of North Carolina at Charlotte
+199148,University of North Carolina at Greensboro
+199218,University of North Carolina Wilmington
+199847,Wake Forest University
+200280,University of North Dakota
+200332,North Dakota State University-Main Campus
+200697,Air Force Institute of Technology-Graduate School of Engineering & Management
+200800,University of Akron Main Campus
+201441,Bowling Green State University-Main Campus
+202134,Cleveland State University
+202480,University of Dayton
+203517,Kent State University at Kent
+204024,Miami University-Oxford
+204857,Ohio University-Main Campus
+206084,University of Toledo
+206604,Wright State University-Main Campus
+207971,University of Tulsa
+209807,Portland State University
+212106,Duquesne University
+213543,Lehigh University
+216366,Thomas Jefferson University
+216597,Villanova University
+217484,University of Rhode Island
+219356,South Dakota State University
+219471,University of South Dakota
+220075,East Tennessee State University
+220862,University of Memphis
+221838,Tennessee State University
+221847,Tennessee Technological University
+223232,Baylor University
+224147,Texas A & M University-Corpus Christi
+227368,The University of Texas Rio Grande Valley
+228246,Southern Methodist University
+228459,Texas State University
+228705,Texas A & M University-Kingsville
+228875,Texas Christian University
+229027,The University of Texas at San Antonio
+229063,Texas Southern University
+230038,Brigham Young University-Provo
+230728,Utah State University
+231174,University of Vermont
+231624,William & Mary
+232265,Hampton University
+232982,Old Dominion University
+237525,Marshall University
+239105,Marquette University
+240727,University of Wyoming
+243081,Ponce Health Sciences University
+243221,University of Puerto Rico-Rio Piedras
+445188,University of California-Merced
+448886,Arizona State University-Downtown Phoenix
+483124,Arizona State University Digital Immersion
+486840,Kennesaw State University
